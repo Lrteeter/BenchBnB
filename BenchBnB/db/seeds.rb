@@ -1,0 +1,6 @@
+Bench.create!({description: "BEST BENCH IN THE WORLD!!!!", lat: 37.83, lng: -122.41})
+Bench.create!({description: "watch out. lots of bird poop. otherwise nice", lat: 37.78, lng: -122.46})
+Bench.create!({description: "in a lovely park with no screaming kids, totally promise", lat: 37.7833, lng: -122.43})
+Bench.create!({description: "lovely and shaded bench", lat: 37.74, lng: -122.38})
+Bench.create!({description: "come paint this bench to make a pinstripe stuit!", lat: 37.89, lng: -122.36})
+Bench.create!({description: "beautiful wrought iron bench, but don't stay too long or it'll leave a funny pattern on your legs", lat: 37.81, lng: -122.40})
